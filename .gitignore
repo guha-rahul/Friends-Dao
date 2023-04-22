@@ -4,7 +4,7 @@ coverage
 coverage.json
 typechain
 typechain-types
-src/Questions.txt
+Questions.txt
 # Hardhat files
 cache
 artifacts
